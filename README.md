@@ -37,7 +37,7 @@ Beiträge sind willkommen! Teilen Sie Ihre bewährten Prompts und Workflows mit 
 
 **Haftungsausschluss**: Die bereitgestellten Prompts und Hilfen dienen der Unterstützung bei der Vergabevorbereitung und ersetzen keine fachliche Beratung.
 
-**Impressum**: [https://flexdienst.de/impressumseite-von-11438/](https://flexdienst.de/impressumseite-von-11438/)
+**[Impressum](https://flexdienst.de/impressumseite-von-11438/)**
 
 ---
 
