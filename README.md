@@ -1,41 +1,41 @@
-# Vergaberecht - Leitfaden und Ressourcen
+# Vergabe-Prompts - KI-gestützte Vorbereitung von Vergabeverfahren
 
-Willkommen im Vergaberecht-Repository! Diese Sammlung bietet umfassende Informationen, Anleitungen und Ressourcen zum deutschen Vergaberecht.
+Willkommen im Vergabe-Prompts Repository! Diese Sammlung bietet spezialisierte KI-Prompts und Anleitungen zur effizienten Vorbereitung von Vergabeverfahren.
 
 ## 📚 Inhaltsverzeichnis
 
-### Grundlagen
-- [Einführung ins Vergaberecht](docs/grundlagen/einfuehrung.md)
-- [Rechtliche Grundlagen](docs/grundlagen/rechtliche-grundlagen.md)
-- [Vergabeverfahren im Überblick](docs/grundlagen/verfahren-ueberblick.md)
+### Prompt-Bibliothek
+- [Ausschreibungstexte erstellen](docs/prompts/ausschreibungstexte.md)
+- [Bewertungskriterien definieren](docs/prompts/bewertungskriterien.md)
+- [Leistungsverzeichnisse strukturieren](docs/prompts/leistungsverzeichnisse.md)
 
-### Praxisleitfäden
-- [Vorbereitung einer Vergabe](docs/praxis/vorbereitung.md)
-- [Ausschreibungsunterlagen](docs/praxis/ausschreibungsunterlagen.md)
-- [Bewertung und Zuschlag](docs/praxis/bewertung-zuschlag.md)
+### Vorbereitung & Planung
+- [Bedarfsanalyse-Prompts](docs/vorbereitung/bedarfsanalyse.md)
+- [Marktanalyse durchführen](docs/vorbereitung/marktanalyse.md)
+- [Zeitplanung optimieren](docs/vorbereitung/zeitplanung.md)
 
-### Rechtsprechung
-- [Aktuelle Urteile](docs/rechtsprechung/aktuelle-urteile.md)
-- [Präzedenzfälle](docs/rechtsprechung/praezedenzfaelle.md)
+### Dokumentation
+- [Vergabeakten strukturieren](docs/dokumentation/vergabeakten.md)
+- [Protokolle erstellen](docs/dokumentation/protokolle.md)
 
-### Tools & Vorlagen
-- [Checklisten](tools/checklisten/)
-- [Musterverträge](tools/mustervertraege/)
-- [Formulare](tools/formulare/)
+### Templates & Vorlagen
+- [Prompt-Templates](templates/prompts/)
+- [Checklisten](templates/checklisten/)
+- [Muster-Workflows](templates/workflows/)
 
 ## 🚀 Quick Start
 
-1. **Neu im Vergaberecht?** → Starten Sie mit der [Einführung](docs/grundlagen/einfuehrung.md)
-2. **Konkrete Vergabe geplant?** → Nutzen Sie unseren [Praxisleitfaden](docs/praxis/vorbereitung.md)
-3. **Rechtliche Fragen?** → Konsultieren Sie die [Rechtsprechung](docs/rechtsprechung/)
+1. **Neue Vergabe vorbereiten?** → Starten Sie mit der [Bedarfsanalyse](docs/vorbereitung/bedarfsanalyse.md)
+2. **Ausschreibung formulieren?** → Nutzen Sie unsere [Ausschreibungs-Prompts](docs/prompts/ausschreibungstexte.md)
+3. **Bewertung planen?** → Verwenden Sie die [Bewertungskriterien-Prompts](docs/prompts/bewertungskriterien.md)
 
 ## 🤝 Mitwirken
 
-Beiträge sind willkommen! Bitte lesen Sie unsere [Contribution Guidelines](CONTRIBUTING.md).
+Beiträge sind willkommen! Teilen Sie Ihre bewährten Prompts und Workflows mit der Community.
 
 ## 📄 Rechtliche Hinweise
 
-**Haftungsausschluss**: Die bereitgestellten Informationen dienen nur als allgemeine Orientierung und ersetzen keine Rechtsberatung.
+**Haftungsausschluss**: Die bereitgestellten Prompts und Hilfen dienen der Unterstützung bei der Vergabevorbereitung und ersetzen keine fachliche Beratung.
 
 **Impressum**: [https://flexdienst.de/impressumseite-von-11438/](https://flexdienst.de/impressumseite-von-11438/)
 
