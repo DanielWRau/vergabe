@@ -1,73 +1,136 @@
-# Vergaberecht für Einsteiger
-## KI-gestützte Vergabevorbereitung leicht gemacht
+# KI-Prompts für Vergaben
+## Praktische KI-Unterstützung bei Vergabeprozessen
 
-Ein praktisches Handbuch für Vergabeanfänger, die mit KI-Tools effizient arbeiten möchten.
+Eine strukturierte Sammlung von KI-Prompts, Templates und Workflows für die effiziente Vorbereitung und Durchführung von Vergabeverfahren.
 
 ---
 
-## 📖 Inhaltsverzeichnis
+## 🎯 Zweck dieses Repositories
 
-### 🎯 **Teil 1: Grundlagen verstehen**
-- [Kapitel 1: Was ist Vergaberecht?](docs/grundlagen/01-was-ist-vergaberecht.md)
-- [Kapitel 2: Wann gilt das Vergaberecht?](docs/grundlagen/02-anwendungsbereich.md)  
-- [Kapitel 3: Die wichtigsten Vergabeverfahren](docs/grundlagen/03-verfahrensarten.md)
+**Das ist KEINE Rechtslehre!** 
+Hier finden Sie **praktische KI-Tools** für Vergabeprofis, die bereits wissen, was zu tun ist, aber effizienter arbeiten möchten.
 
-### 🛠️ **Teil 2: Praktische Umsetzung**
-- [Kapitel 4: Vorbereitung einer Vergabe](docs/praxis/04-vorbereitung.md)
-- [Kapitel 5: Ausschreibung erstellen](docs/praxis/05-ausschreibung.md)
-- [Kapitel 6: Angebote bewerten](docs/praxis/06-bewertung.md)
+**Ergänzt perfekt**: Das [KI-Handbuch für öffentliche Auftragsvergabe](https://github.com/DanielWRau/vergabehandbuch) (237 Seiten Fachbuch)
 
-### 🤖 **Teil 3: KI-Unterstützung**
-- [Kapitel 7: KI-Tools für Vergaben](docs/ki-tools/07-ki-grundlagen.md)
-- [Kapitel 8: Prompt-Engineering für Vergaben](docs/ki-tools/08-prompt-engineering.md)
-- [Kapitel 9: Praktische Prompt-Beispiele](docs/ki-tools/09-prompt-beispiele.md)
+---
 
-### 📋 **Praktische Hilfen**
-- [Checklisten](checklisten/)
-- [Prompt-Vorlagen](prompts/)
-- [Workflows](workflows/)
-- [Glossar](docs/anhang/glossar.md)
+## 📁 Repository-Struktur
+
+### 🤖 **Prompts** - Direkt einsetzbare KI-Prompts
+```
+prompts/
+├── bedarfsanalyse/           # Bedarfe strukturiert ermitteln
+├── marktanalyse/            # Märkte und Anbieter recherchieren  
+├── ausschreibung/           # Ausschreibungstexte formulieren
+├── bewertung/               # Angebote systematisch bewerten
+└── vertragsmanagement/      # Verträge vorbereiten und begleiten
+```
+
+### 📋 **Templates** - Spec-driven Vorlagen
+```
+templates/
+├── vergabe-spezifikation.md  # Systematische Bedarfsbeschreibung
+├── vergabe-planung.md        # Strukturierte Vergabeplanung  
+├── vergabe-umsetzung.md      # Schritt-für-Schritt Durchführung
+└── prompt-bibliothek.md     # Wiederverwendbare Prompt-Bausteine
+```
+
+### 🔄 **Workflows** - Schritt-für-Schritt Anleitungen
+```
+workflows/
+├── oeffentliche-ausschreibung/    # Standardverfahren
+├── beschraenkte-ausschreibung/    # Vorauswahl-Verfahren
+├── verhandlungsverfahren/         # Verhandlungsprozesse
+└── rahmenvereinbarungen/          # Langfristige Vereinbarungen
+```
+
+### ✅ **Checklisten** - Qualitätssicherung
+```
+checklisten/
+├── vor-vergabe.md           # Vorbereitung prüfen
+├── waehrend-vergabe.md      # Prozess überwachen
+└── nach-vergabe.md          # Abschluss dokumentieren
+```
+
+### 📖 **Examples** - Praxisbeispiele
+```
+examples/
+├── it-beschaffung/          # IT-System, Software, Hardware
+├── dienstleistungen/        # Reinigung, Sicherheit, Beratung
+├── bauleistungen/          # Bau, Sanierung, Instandhaltung
+└── komplexe-projekte/       # Mehrjährige, innovative Projekte
+```
 
 ---
 
 ## 🚀 Schnellstart
 
-**Neue Vergabe vorbereiten?**
-1. ✅ [Grundlagen lesen](docs/grundlagen/) (15 Min.)
-2. ✅ [Checkliste Vorbereitung](checklisten/vorbereitung.md) (5 Min.)
-3. ✅ [Prompt-Vorlage nutzen](prompts/bedarfsanalyse.md) (10 Min.)
+### **Neue Vergabe starten**
+1. 📋 [Vergabe-Spezifikation](templates/vergabe-spezifikation.md) erstellen
+2. 🤖 [Bedarfsanalyse-Prompt](prompts/bedarfsanalyse/) nutzen  
+3. ✅ [Vorbereitung-Checkliste](checklisten/vor-vergabe.md) abarbeiten
 
-**Ausschreibung formulieren?**
-1. ✅ [Kapitel 5 lesen](docs/praxis/05-ausschreibung.md) (20 Min.)
-2. ✅ [Ausschreibungs-Prompts nutzen](prompts/ausschreibung.md) (15 Min.)
+### **Ausschreibung formulieren**
+1. 🤖 [Ausschreibungs-Prompts](prompts/ausschreibung/) verwenden
+2. 📋 [Planung-Template](templates/vergabe-planung.md) ausfüllen
+3. 📖 Passende [Beispiele](examples/) als Referenz nutzen
 
----
-
-## 💡 Was macht dieses Handbuch anders?
-
-- **Einfach erklärt**: Ohne Juristendeutsch, für Praktiker
-- **KI-optimiert**: Direkt einsetzbare Prompts und Vorlagen
-- **Strukturiert**: Spec-driven approach für systematisches Vorgehen
-- **Praxisnah**: Echte Beispiele statt Theorie
+### **Systematisch vorgehen**
+1. 📋 [Spec-driven Templates](templates/) für Struktur
+2. 🔄 [Workflows](workflows/) für den Prozess
+3. ✅ [Checklisten](checklisten/) für die Qualität
 
 ---
 
-## 📚 Für wen ist dieses Handbuch?
+## 💡 Methodischer Ansatz
 
-- **Vergabe-Einsteiger** in Kommunen und Unternehmen
-- **Beschaffer**, die KI-Tools nutzen möchten  
-- **Projektleiter** mit gelegentlichen Vergaben
-- **Assistenzen**, die Vergaben vorbereiten
+### **Spec-driven Development für Vergaben**
+- **Spezifikation zuerst**: Klare Anforderungen vor Prompts
+- **Template-basiert**: Wiederverwendbare Strukturen
+- **Qualitätsgesichert**: Checklisten und Validierung
+- **KI-optimiert**: Prompts für bessere Ergebnisse
+
+### **Prompt-Engineering Prinzipien**
+- **Kontext-bewusst**: Vergaberecht und Praxis berücksichtigen
+- **Ergebnis-orientiert**: Direkt verwendbare Outputs
+- **Iterativ**: Verbesserung durch Anwendung
+- **Dokumentiert**: Nachvollziehbare Prozesse
+
+---
+
+## 👥 Zielgruppen
+
+### **Primary Users**
+- **Vergabeverantwortliche** in Kommunen und Unternehmen
+- **Beschaffungsmanager** mit KI-Erfahrung
+- **Projektleiter** bei größeren Beschaffungen
+
+### **Secondary Users**  
+- **Rechtsanwälte** im Vergaberecht
+- **Beratungsunternehmen** für öffentliche Auftraggeber
+- **Softwareentwickler** von Vergabe-Tools
+
+---
+
+## 🔗 Verwandte Projekte
+
+- **[KI-Handbuch Vergabe](https://github.com/DanielWRau/vergabehandbuch)**: 237-seitiges Fachbuch über KI in der Vergabe
+- **Spec-driven Development**: Template-System aus legaltech-Projekten
+- **Claude Code Integration**: Optimiert für Claude-basierte Workflows
 
 ---
 
 ## ⚖️ Rechtliche Hinweise
 
-**Wichtig**: Dieses Handbuch ersetzt keine Rechtsberatung. Bei komplexen Vergaben sollten Sie einen Fachanwalt konsultieren.
+**Wichtig**: Diese Prompts und Templates ersetzen keine Rechtsberatung. Sie unterstützen die Anwendung bereits bekannter Vergabeprozesse.
 
-**Haftungsausschluss**: Die Inhalte dienen der Information und Unterstützung, begründen aber keine Gewährleistung für Vollständigkeit oder Richtigkeit.
+**Zielgruppe**: Nutzer mit grundlegenden Vergaberecht-Kenntnissen. Für Einsteiger empfehlen wir das [KI-Handbuch](https://github.com/DanielWRau/vergabehandbuch).
+
+**Haftungsausschluss**: Nutzung auf eigene Verantwortung. Bei komplexen Vergaben fachkundigen Rat einholen.
 
 ---
+
+## 📞 Kontakt
 
 **[Impressum](https://flexdienst.de/impressumseite-von-11438/)**
 
