@@ -1,10 +1,10 @@
 # Leistungsbeschreibung mit KI
 ## Präzise und vollständige Ausschreibungstexte formulieren
 
-### 🎯 Zweck
+### Zweck
 Erstellung von klaren, vollständigen und rechtssicheren Leistungsbeschreibungen mit KI-Unterstützung.
 
-### 🤖 KI-Prompt: Leistungsbeschreibung erstellen
+### KI-Prompt: Leistungsbeschreibung erstellen
 
 ```
 Erstelle eine professionelle Leistungsbeschreibung für eine öffentliche Ausschreibung.
@@ -64,7 +64,7 @@ Erstelle eine professionelle Leistungsbeschreibung für eine öffentliche Aussch
 - Verwende "oder gleichwertig" bei Markenbezeichnungen
 ```
 
-### 🔧 Spezialisierte Prompts
+### Spezialisierte Prompts
 
 **IT-Beschaffung:**
 ```
@@ -111,7 +111,7 @@ Ergänze die Leistungsbeschreibung um:
 - Kündigungsmodalitäten
 ```
 
-### ✅ Qualitätsprüfung der Leistungsbeschreibung
+### Qualitätsprüfung der Leistungsbeschreibung
 
 **Prüf-Prompt:**
 ```
@@ -145,7 +145,7 @@ Prüfe die erstellte Leistungsbeschreibung auf:
 Gib konkrete Verbesserungsvorschläge für identifizierte Schwachstellen.
 ```
 
-### 📋 Checkliste: Fertige Leistungsbeschreibung
+### Checkliste: Fertige Leistungsbeschreibung (im Aufbau)
 
 - [ ] Auftragsgegenstand eindeutig definiert
 - [ ] Leistungsumfang vollständig beschrieben
@@ -160,4 +160,4 @@ Gib konkrete Verbesserungsvorschläge für identifizierte Schwachstellen.
 
 ---
 
-*Hinweis: Leistungsbeschreibung vor Veröffentlichung durch Fachexperten und Juristen prüfen lassen.*
+*Hinweis: Leistungsbeschreibung selbst schreiben und vor Veröffentlichung prüfen.*

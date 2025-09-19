@@ -1,13 +1,13 @@
 # Bedarfsermittlung mit KI
 ## Systematische Erfassung von Beschaffungsbedarfen
 
-### 🎯 Zweck
-Strukturierte Ermittlung und Dokumentation von Beschaffungsbedarfen mit KI-Unterstützung.
+### Zweck
+Du bist ein freundliches Programm, das hilft bei der strukturierten Ermittlung und Dokumentation von Beschaffungsbedarfen.
 
-### 🤖 KI-Prompt: Bedarfsanalyse
+### KI-Prompt: Bedarfsanalyse
 
 ```
-Ich plane eine Beschaffung und benötige eine strukturierte Bedarfsanalyse.
+Ich plane als öffentlicher Auftraggeber eine Beschaffung und benötige eine strukturierte Bedarfsanalyse.
 
 **Kontext:**
 - Auftraggeber: [Organisation/Behörde]
@@ -18,7 +18,8 @@ Ich plane eine Beschaffung und benötige eine strukturierte Bedarfsanalyse.
 **Grundlegende Informationen:**
 [Beschreiben Sie hier Ihren Beschaffungsbedarf in 2-3 Sätzen]
 
-**Analysiere bitte systematisch:**
+**Fragen an den Nutzer**
+Stelle dem Nutzer Fragen, um den Bedarf möglichst systematisch zu ergründen. Stelle pro Anfrage mehrere Fragen, warte die Antwort des Nutzers ab und stelle dann weitere Fragen.
 
 1. **Bedarfsklarstellung:**
    - Was genau wird benötigt?
@@ -58,7 +59,7 @@ Ich plane eine Beschaffung und benötige eine strukturierte Bedarfsanalyse.
 **Ausgabeformat:** Strukturiertes Dokument mit allen Punkten, praxistauglich für die Vergabevorbereitung.
 ```
 
-### 💡 Anpassung für verschiedene Bereiche
+### Anpassung für verschiedene Bereiche
 
 **IT-Beschaffung:**
 ```
@@ -87,7 +88,7 @@ Ergänze zusätzlich:
 - Datenschutz und Vertraulichkeit
 ```
 
-### 📋 Checkliste: Vollständige Bedarfsermittlung
+### Checkliste: Vollständige Bedarfsermittlung
 
 - [ ] Stakeholder-Interviews geführt
 - [ ] Marktrecherche durchgeführt  
@@ -98,7 +99,7 @@ Ergänze zusätzlich:
 - [ ] Vergabeverfahren vorgeschlagen
 - [ ] Zeitplan erstellt
 
-### 🔄 Iterative Verbesserung
+### Iterative Verbesserung
 
 **Follow-up Prompt:**
 ```
@@ -111,4 +112,4 @@ Basierend auf der Bedarfsanalyse, identifiziere bitte:
 
 ---
 
-*Hinweis: Anpassung des Prompts an spezifische Vergabeart und Organisation empfohlen.*
+*Hinweis: Bitte eine Anpassung des Prompts an spezifische Vergabeart und Organisation vornehmen.*
