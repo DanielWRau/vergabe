@@ -1,4 +1,4 @@
-# KI-Prompts für Vergaben
+o# KI-Prompts für Vergaben
 ## Praktische KI-Unterstützung bei Vergabeprozessen
 
 Eine strukturierte Sammlung von KI-Prompts, (künftig Templates und Workflows) für die effiziente Vorbereitung und Durchführung von Vergabeverfahren.
@@ -49,5 +49,3 @@ Nutzung auf eigene Verantwortung. Bei Vergaben fachkundigen Rat einholen.
 ## 📞 Kontakt
 
 **[Impressum](https://flexdienst.de/impressumseite-von-11438/)**
-
-*Letzte Aktualisierung: Dezember 2024*
